@@ -1,0 +1,9 @@
+com\itheima\mp\domain\query\UserQuery.class
+com\itheima\mp\service\IUserService.class
+com\itheima\mp\service\impl\IUserServiceImpl.class
+com\itheima\mp\domain\dto\UserFormDTO.class
+com\itheima\mp\domain\vo\AddressVO.class
+com\itheima\mp\controller\UserControlller.class
+com\itheima\mp\domain\vo\UserVO.class
+com\itheima\mp\domain\dto\PageDTO.class
+com\itheima\mp\domain\query\PageQuery.class
